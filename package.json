@@ -4,10 +4,10 @@
   "description": "",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack -p"
+    "build": "webpack -p --env.production"
   },
   "keywords": [],
-  "author": "",
+  "author": "VMerk",
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.1",
